@@ -1,6 +1,10 @@
 # VideoSearch
 ## Video search android application using Vimeo public api
 
+### Installation Instructions
+1. [Download APK Here!](app/VideoSearch.apk?raw=true)
+2. Copy the apk to sdcard in the phone or click the above url directly in phone.
+3. 
 
 ### Description   
 Fast and responsive Android application for searching the videos from web. For searching the videos, this application uses api powered by Vimeo. Provides beautiful interface for displaying the results. Option for expanding or collapsing the further details of the video. Supports endless scrolling
